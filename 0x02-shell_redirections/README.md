@@ -13,3 +13,4 @@ Task 11 Write a script that counts the number of directories and sub-directories
 
 The current and parent directories should not be taken into account
 Hidden directories should be counted
+Task 12 Create a script that displays the 10 newest files in the current directory.
